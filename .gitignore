@@ -2,6 +2,7 @@
 .DS_STORE
 
 # VSCode repo settings
+playground.mongodb
 .vscode
 
 # BSON data files
